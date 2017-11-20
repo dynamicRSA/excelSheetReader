@@ -14,7 +14,7 @@ namespace ExcelReader
     public class ExcelFileParser
     {
         //TODO: Take these values from CONFIG
-        public static string m_FilePath = "C:\\Users\\sven.LAWTRUST\\Desktop\\Sample_Data_Import.xlsx";
+        public static string m_FilePath = "..\\..\\..\\Desktop\\Sample_Data_Import.xlsx";
         public static string m_FileExtension = ".xlsx";
         public static bool m_IgnoreFirstRow = true;
 
